@@ -1,4 +1,4 @@
-# SRE and Cybersecurity specialist
+# Site reliability and Cybersecurity engineer
 
 ## Education:
 
