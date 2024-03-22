@@ -1,4 +1,4 @@
-# Linux engineer and Cybersecurity specialist
+# SRE and Cybersecurity specialist
 
 ## Education:
 
