@@ -1,4 +1,4 @@
-# Site reliability and Cybersecurity engineer
+# Site reliability and security engineer
 
 ## Education:
 
