@@ -1,7 +1,9 @@
 # Linux engineer and a Cybersecurity specialist
 
-Education: University of Lonson, Bachelor of Science in Computer Science (2023-2027).
+## Education:
+University of Lonson, Bachelor of Science in Computer Science (2023-2027).
 
+## Skillset:
 Scripting languages:
 1. bash/awk;
 2. Python
