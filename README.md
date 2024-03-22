@@ -7,8 +7,7 @@ University of London, Bachelor of Science in Computer Science (2023-2027).
 ## Skillset:
 
 Infrastructure and automation:
-1. Ubuntu Server/Debian Linux;
-2. RHEL;
+1. Ubuntu Server, Debian Linux, RHEL;
 3. Docker/Podman;
 4. Kubernetes/OpenShift;
 5. Ansible
