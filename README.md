@@ -2,7 +2,7 @@
 
 ## Education:
 
-University of Lonson, Bachelor of Science in Computer Science (2023-2027).
+University of London, Bachelor of Science in Computer Science (2023-2027).
 
 ## Skillset:
 
@@ -28,6 +28,3 @@ Markup and typesetting languages:
 
 Automation and IAC tools:
 1. Ansible
-
-
-
