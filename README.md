@@ -1,9 +1,17 @@
-# Linux engineer and a Cybersecurity specialist
+# Linux engineer and Cybersecurity specialist
 
 ## Education:
+
 University of Lonson, Bachelor of Science in Computer Science (2023-2027).
 
 ## Skillset:
+
+Infrastructure:
+1. Ubuntu Linux, Debian Linux;
+2. RHEL;
+3. Docker/Podman;
+4. Kubernetes/OpenShift
+   
 Scripting languages:
 1. bash/awk;
 2. Python
@@ -20,4 +28,6 @@ Markup and typesetting languages:
 
 Automation and IAC tools:
 1. Ansible
+
+
 
