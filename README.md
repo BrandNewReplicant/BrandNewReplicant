@@ -18,7 +18,6 @@ Programming and scripting languages:
 3. JavaScript (mainly node.js);
 4. GoLang
 
-Markup and typesetting languages:
+Documentation writing:
 1. LaTeX;
-2. Markdown;
-3. YAML
+2. Markdown
