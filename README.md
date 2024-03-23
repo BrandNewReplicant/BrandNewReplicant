@@ -15,8 +15,8 @@ Infrastructure and automation:
 Programming and scripting languages:
 1. bash/awk;
 2. Python;
-3. JavaScript (mainly node.js);
-4. GoLang
+3. Go;
+4. JavaScript (mainly node.js)
 
 Documentation writing:
 1. LaTeX;
