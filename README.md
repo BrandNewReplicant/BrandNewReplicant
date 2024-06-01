@@ -4,7 +4,7 @@
 
 University of London, Bachelor of Science in Computer Science (2023-2027).
 
-## Skills:
-- infrastructure security and hardening, 
-- profeciency in Pyhton and Go languages, 
-- threat identrification and analysys. 
+## Skillset:
+- Infrastructure, network and application security and hardening 
+- Proficiency in Python and Go languages
+- Threat identification and analysis
